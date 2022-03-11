@@ -13,7 +13,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
     
-<a href="https://www.facebook.com/profile.php?id=100032149602785">
+<a href="https://facebook.com/bec2o">
     <img 
         src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>

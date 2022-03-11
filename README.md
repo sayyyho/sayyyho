@@ -35,9 +35,8 @@
 <br>
 <br>
 <p align="center">
-<a href="https://github.com/sayyyho/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&layout=compact"
 </a>
 

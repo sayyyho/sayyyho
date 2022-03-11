@@ -7,7 +7,7 @@
         src="https://img.shields.io/badge/-Velog-20C997?style=flat&logo=Velog&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://velog.io/@sayyyho">
+<a href="https://www.instagram.com/b_c2o">
     <img 
         src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>

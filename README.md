@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"/></a> &nbsp
 <br>
-<img src="https://img.shields.io/badge/DART-518FD1?style=flat-square&logo=DART&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/DART-035397?style=flat-square&logo=DART&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/FLUTTER-3AB4F2?style=flat-square&logo=FLUTTER&logoColor=white"/></a> &nbsp
 
 

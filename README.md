@@ -37,7 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&layout=compact"
 </a>
 <br>
-
-<div align="center">
+    
+<p align="center">
 ![sayyyho's github stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true)
-</div>
+

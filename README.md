@@ -38,4 +38,6 @@
 </a>
 <br>
 
+<div align="center">
 ![sayyyho's github stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true)
+</div>

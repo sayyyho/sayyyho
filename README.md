@@ -38,7 +38,7 @@
 </a>
 <br>
     
-<p align="center">
-<!--![sayyyho's github stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true)-->
-    <a href="https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true"></a>
+
+![sayyyho's github stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true)
+
 

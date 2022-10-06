@@ -38,3 +38,4 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&layout=compact"
 </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true&theme=radical)

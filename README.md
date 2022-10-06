@@ -36,5 +36,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&layout=compact"
 </a>
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true&theme=graywhite)
+<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)

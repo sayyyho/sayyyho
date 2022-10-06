@@ -35,8 +35,8 @@
     
 <div align=center>
 
-![sayyyho's github stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true)
-    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&layout=compact"
-</a>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=sayyyho&count_private=true&show_icons=true&theme=vuefy&hide_border=false&card_width=382" height="150px">
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&layout=compact&hide_border=false&card_width=382" height="150px">
+</p>

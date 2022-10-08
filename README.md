@@ -7,13 +7,6 @@
         src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-    
-<a href="https://facebook.com/bec2o">
-    <img 
-        src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-    
 
 <h3 align="center"><b>Once I've used ✏️</b></h3>
 <p align="center">

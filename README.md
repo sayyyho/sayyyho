@@ -26,7 +26,7 @@
 
 <p>
     
-![sayyyho's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true&theme=transparent)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=323ps)](https://solved.ac/323ps/)
+![sayyyho's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true&theme=transparent) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sayyyho)](https://solved.ac/sayyyho/)
     
 </p>
 

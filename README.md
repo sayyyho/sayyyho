@@ -3,13 +3,14 @@
 <h3 align="center"><b>Contact 📞</b></h3>
 <p align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=323ps)](https://solved.ac/323ps/)
-
 <a href="https://www.instagram.com/b_c2o">
     <img 
         src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=323ps)](https://solved.ac/323ps/)
+
 <h3 align="center"><b>Once I've used ✏️</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 

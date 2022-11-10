@@ -2,6 +2,9 @@
 <h1> Welcome to sayyyho 👋✨ </h1>
 <h3 align="center"><b>Contact 📞</b></h3>
 <p align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=323ps)](https://solved.ac/323ps/)
+
 <a href="https://www.instagram.com/b_c2o">
     <img 
         src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"
@@ -21,9 +24,6 @@
 <img src="https://img.shields.io/badge/REACT-21E1E1?style=flat-square&logo=REACT&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/NODE.JS-5BB318?style=flat-square&logo=NODE.JS&logoColor=white"/></a> &nbsp
 <br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=323ps)](https://solved.ac/323ps/)
-
 <br>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=sayyyho&count_private=true&show_icons=true&theme=vuefy&hide_border=false&card_width=382" height="150px">

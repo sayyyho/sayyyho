@@ -29,9 +29,4 @@
 ![sayyyho's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true&theme=transparent)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=323ps)](https://solved.ac/323ps/)
     
 </p>
-<br>
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&layout=compact&hide_border=false&card_width=382" height="150px">
-</p>
-
 

@@ -3,7 +3,7 @@
 <h3 align="center"><b>Contact 📞</b></h3>
 <p align="center">
 
-<a href="https://www.sayyyho.site">
+<a href="https://www.sayyyho.github.io">
     <img 
         src="https://img.shields.io/badge/-sayyyho-blue"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>

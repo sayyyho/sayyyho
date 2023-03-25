@@ -41,11 +41,13 @@
 <br />
 
 <h3 align="center"><b>Top Languages</b></h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
 <h3 align="center"><b>GitHub Stats</b></h3>
+
 ![Sayyyho's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true&theme=transparent)
     
     

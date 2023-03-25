@@ -1,5 +1,7 @@
 <div align=center>
-<h1> Welcome to sayyyho 👋✨ </h1>
+    
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SEHO%20PARK)    
+
 <h3 align="center"><b>Contact 📞</b></h3>
 <p align="center">
 

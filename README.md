@@ -34,7 +34,7 @@
 
 <p>
 
-<h3 align="center"><b>Boj Tear</b></h3>
+<h3 align="center"><b>Boj Tier</b></h3>
      
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sayyyho)](https://solved.ac/sayyyho/)    
 

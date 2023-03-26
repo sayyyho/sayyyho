@@ -2,20 +2,7 @@
     
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SEHO%20PARK)    
 
-<h3 align="center"><b>Contact 📞</b></h3>
 <p align="center">
-
-<a href="https://sayyyho.github.io">
-    <img 
-        src="https://img.shields.io/badge/-sayyyho-blue"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-    
-<a href="https://www.instagram.com/b_c2o">
-    <img 
-        src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 <h3 align="center"><b>Once I've used ✏️</b></h3>
 <p align="center">

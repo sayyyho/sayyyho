@@ -21,11 +21,6 @@
 
 <p>
 
-<h3 align="center"><b>Boj Tier</b></h3>
-     
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sayyyho)](https://solved.ac/sayyyho/)    
-
-<br />
 
 <h3 align="center"><b>Top Languages</b></h3>
 

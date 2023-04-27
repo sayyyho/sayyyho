@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<h3 align="center"><b>Skill✏️</b></h3>
+<h3 align="center"><b>✏️ Skills</b></h3>
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp  -->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> &nbsp 

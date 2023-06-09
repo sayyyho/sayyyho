@@ -4,6 +4,12 @@
 
 <p align="center">
 
+<h3 align="center"><b>Visitor</b></h3>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsayyyho%2Fhit-counter&count_bg=%23545A4F&title_bg=%23A07676&icon=&icon_color=%236E6464&title=visitor&edge_flat=true)](https://hits.seeyoufarm.com)
+
+<br />
+
 <h3 align="center"><b>✏️ Skills</b></h3>
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp  -->
@@ -17,12 +23,6 @@
 <br>
 
 <p>
-
-<br />
-
-<h3 align="center"><b>Visitor</b></h3>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsayyyho%2Fhit-counter&count_bg=%23545A4F&title_bg=%23A07676&icon=&icon_color=%236E6464&title=visitor&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <br />
 

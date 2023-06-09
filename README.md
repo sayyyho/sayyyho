@@ -20,12 +20,6 @@
 
 <br />
 
-<h3 align="center"><b>Top Languages</b></h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
 <h3 align="center"><b>Visitor</b></h3>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsayyyho%2Fhit-counter&count_bg=%23545A4F&title_bg=%23A07676&icon=&icon_color=%236E6464&title=visitor&edge_flat=true)](https://hits.seeyoufarm.com)

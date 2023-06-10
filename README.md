@@ -15,15 +15,15 @@
 <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp  -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/REACT-21E1E1?style=flat-square&logo=REACT&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=REACT&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=black%22"/></a> &nbsp
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Flask-white?style=flat-square&logo=Flask&logoColor=black"/></a> &nbsp
 <br />
-<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=black%22"/></a> &nbsp
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white%22"/></a> &nbsp
 <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=black%22"/></a> &nbsp
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=2496ED%22"/></a> &nbsp
-<img src="https://img.shields.io/badge/Jenkins-white?style=flat-square&logo=Jenkins&logoColor=black%22"/></a> &nbsp
-<img src="https://img.shields.io/badge/aws-black?style=flat-square&logo=Amazon%20AWS&logoColor=black%22"/></a> &nbsp
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white%22"/></a> &nbsp
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=black%22"/></a> &nbsp
+<img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=black%22"/></a> &nbsp
 
 <br />
 

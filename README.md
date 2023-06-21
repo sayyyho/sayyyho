@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white"/></a> &nbsp
 <br />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp

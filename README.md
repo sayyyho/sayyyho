@@ -28,7 +28,9 @@
 
 <br />
 
-<p>
+<h3 align="center"><b>BOJ Tier</b></h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sayyyho)](https://solved.ac/sayyyho/)
 
 <br />
 

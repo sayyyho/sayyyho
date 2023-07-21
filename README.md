@@ -2,7 +2,7 @@
     
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SEHO%20PARK)
 
-<h3 align="center"><b>Hi, there👋🏻</b></h3>
+<!-- <h3 align="center"><b>Hi, there👋🏻</b></h3> -->
 <!-- <p align="center">
 
 <!-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
@@ -30,12 +30,8 @@
 
 <br /> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&hide_progress=true)
-
-<br />
-
-<!-- <h3 align="center"><b>GitHub Stats</b></h3> -->
-
-![Sayyyho's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true&theme=transparent)
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=sayyyho&count_private=true&show_icons=true&theme=vuefy&hide_border=false&card_width=382" height="150px">
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&layout=compact&hide_border=false&card_width=382" height="150px">
 </p>

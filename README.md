@@ -33,5 +33,5 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=sayyyho&count_private=true&show_icons=true&theme=vuefy&hide_border=false&card_width=382" height="150px">
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&layout=compact&hide_border=false&card_width=382" height="150px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&hide_progress=true&layout=compact&hide_border=false&card_width=382" height="150px">
 </p>

@@ -2,10 +2,10 @@
     
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SEHO%20PARK)
 
-<h3 align="center"><b>Here is the thing</b></h3>
-<p align="center">
+<h3 align="center"><b>Hi, there👋🏻</b></h3>
+<!-- <p align="center">
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -21,9 +21,8 @@
 <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=black"/>
+<img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=black"/> -->
 
-<br />
 
 <!-- <h3 align="center"><b>BOJ Tier</b></h3>
 
@@ -35,7 +34,7 @@
 
 <br />
 
-<h3 align="center"><b>GitHub Stats</b></h3>
+<!-- <h3 align="center"><b>GitHub Stats</b></h3> -->
 
 ![Sayyyho's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true&theme=transparent)
 

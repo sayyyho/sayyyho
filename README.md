@@ -25,9 +25,13 @@
 
 <br />
 
-<h3 align="center"><b>BOJ Tier</b></h3>
+<!-- <h3 align="center"><b>BOJ Tier</b></h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sayyyho)](https://solved.ac/sayyyho/)
+
+<br /> -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&hide_progress=true)
 
 <br />
 

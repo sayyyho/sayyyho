@@ -2,7 +2,7 @@
     
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SEHO%20PARK)
 
-<!-- <h3 align="center"><b>Hi, there👋🏻</b></h3> -->
+<h3 align="center"><b>Things I'm interested in 🧐</b></h3>
 <!-- <p align="center">
 
 <!-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> -->
@@ -23,6 +23,7 @@
 <!-- <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=black"/> -->
 
+<br />
 <br />
 <br />
 

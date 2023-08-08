@@ -27,7 +27,6 @@
 <br />
 <br />
 
-
 <!-- <h3 align="center"><b>BOJ Tier</b></h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sayyyho)](https://solved.ac/sayyyho/)
@@ -37,5 +36,9 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=sayyyho&count_private=true&show_icons=true&theme=vuefy&hide_border=false&card_width=382" height="150px">
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&hide_progress=true&layout=compact&hide_border=false&card_width=382" height="150px">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sayyyho" height="150px">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&hide_progress=true&layout=compact&hide_border=false&card_width=382" height="150px"> -->
+
+<!-- http://mazassumnida.wtf/api/v2/generate_badge?boj=sayyyho -->
+
 </p>

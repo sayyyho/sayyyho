@@ -2,7 +2,8 @@
     
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SEHO%20PARK)
 
-<h2 align="center">📚 Stacks</h2>
+<b>📚 Stacks</b>
+
 <!-- <p align="center">
 
 <!-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> -->

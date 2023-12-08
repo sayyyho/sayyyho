@@ -1,6 +1,7 @@
 <div align=center>
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SEHO%20PARK) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SEHO%20PARK)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <b>📚 Stacks</b>
 
@@ -25,4 +26,5 @@
 &nbsp;
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sayyyho" height="150px">
 
-</p>
+</p> -->
+</div>

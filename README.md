@@ -5,14 +5,14 @@
 <h1>Seho Park's Profile 👋</h1>
 
 
-<h4>🧑🏻‍💻 Organizations </h4>
+<h3>🧑🏻‍💻 Organizations </h3>
 <b>
   - Kakao Tech BootCamp (카카오테크 부트캠프) : 클라우드 (7/2024 ~) 
   <br>
   - Like-Lion at Dongguk Univ. (동국대학교 멋쟁이사자처럼 12기) : 프론트엔드 (3/2024 ~ ) 
 </b>
 
-<h4>📚 Tech Stack</h4>
+<h3>📚 Tech Stack</h3>
 
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)

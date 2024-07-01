@@ -1,4 +1,4 @@
-<div align=center>
+<!-- <div align=center> -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SEHO%20PARK) -->
 
@@ -6,10 +6,11 @@
 
 
 <h4>🧑🏻‍💻 Organizations </h4>
+<b>
   - Kakao Tech BootCamp (카카오테크 부트캠프) : 클라우드 (7/2024 ~) 
   <br>
   - Like-Lion at Dongguk Univ. (동국대학교 멋쟁이사자처럼 12기) : 프론트엔드 (3/2024 ~ ) 
-
+</b>
 
 <h4>📚 Tech Stack</h4>
 

@@ -7,9 +7,9 @@
 
 <h3>🧑🏻‍💻 Organizations </h3>
 <b>
-  - Kakao Tech BootCamp (카카오테크 부트캠프) : 클라우드 (7/2024 ~) 
+  - Kakao Tech BootCamp (카카오테크 부트캠프) : 클라우드 과정 (7/2024 ~ ) 
   <br>
-  - Like-Lion at Dongguk Univ. (동국대학교 멋쟁이사자처럼 12기) : 프론트엔드 (3/2024 ~ ) 
+  - Like-Lion at Dongguk Univ. (동국대학교 멋쟁이사자처럼 12기) : 프론트엔드 과정 (3/2024 ~ ) 
 </b>
 
 <h3>📚 Tech Stack</h3>

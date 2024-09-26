@@ -1,4 +1,4 @@
-# Welcome to My Space 🔭
+<!-- # Welcome to My Space 🔭
 
 ### - 🧑🏻‍💻 FE Developer
 
@@ -10,4 +10,10 @@
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Seho Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true&theme=transparent)
+![Seho Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true&theme=transparent) -->
+
+<div align="center" style="width:100%">
+  <a href="https://github.com/devxb/gitanimals" style="width:100%">
+    <img src="https://render.gitanimals.org/farms/{sayyyho}"/>
+  </a>
+</div>

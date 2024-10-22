@@ -1,19 +1,15 @@
-<!-- # Welcome to My Space 🔭
+## Welcome to My Space 🔭
 
-### - 🧑🏻‍💻 FE Developer
+### ⚙ Tech Stack
 
-### - 🐬 Exploring cloud services, Docker, Kubernetes, Node.js, and infrastructure.
+##### 📲 Frontend
 
-## 🔨 Dev Toolkit
+<img src ="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
 
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br />
 
-![Seho Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true&theme=transparent) -->
-
-<div align="center" style="width:100%">
-  <a href="https://github.com/devxb/gitanimals" style="width:100%">
-    <img src="https://render.gitanimals.org/farms/{sayyyho}"/>
+ <a href="https://github.com/devxb/gitanimals" style="width:100vw">
+   <img src="https://render.gitanimals.org/lines/sayyyho?pet-id=629558405230056966" width="1000" height="120"/>
   </a>
-</div>

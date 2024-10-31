@@ -12,6 +12,12 @@
 
 <br />
 
- <a href="https://github.com/devxb/gitanimals" style="width:100vw">
-   <img src="https://render.gitanimals.org/lines/sayyyho?pet-id=636978781417724507" width="1000" height="120"/>
- </a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+      src="https://render.gitanimals.org/farms/sayyyho"
+      width="600"
+      height="300"
+  />
+</a>
+

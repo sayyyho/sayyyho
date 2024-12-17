@@ -12,6 +12,7 @@
 
 <br />
 
+[![rankit-badge](https://badge.rankit.run/badge?name=sayyyho)](https://www.rankit.run)
 
 <a href="https://github.com/devxb/gitanimals">
   <img

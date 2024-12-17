@@ -12,7 +12,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&layout=compact&langs_count=8&theme=white)](https://github.com/sayyyho?tab=repositories&q=&type=&language=&sort=)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyho&layout=compact&langs_count=8&theme=white)](https://github.com/sayyyho?tab=repositories&q=&type=&language=js&sort=)
 [![rankit-badge](https://badge.rankit.run/badge?name=sayyyho)](https://www.rankit.run)
 
 

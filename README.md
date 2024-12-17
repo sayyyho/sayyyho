@@ -12,7 +12,10 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&layout=compact&langs_count=8&theme=white)](https://github.com/sayyyho?tab=repositories&q=&type=&language=&sort=)
 [![rankit-badge](https://badge.rankit.run/badge?name=sayyyho)](https://www.rankit.run)
+
+
 
 <a href="https://github.com/devxb/gitanimals">
   <img

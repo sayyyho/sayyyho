@@ -21,7 +21,5 @@
 - [Dongguk University](https://www.dongguk.edu/main) ( 2019.03 - )
 - [kakaotech bootcamp](https://ktb.goorm.io/) 1st Cloud Native Course ( 2024.07 - 2024.12 )
 
-[![rankit-badge](https://badge.rankit.run/badge?name=sayyyho)](https://www.rankit.run)
-
 <!-- ### 🔭 Working Experience
 - [Hancom](https://www.hancom.com/) | Web Frontend Development Internship ( 2025.08 - )

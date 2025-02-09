@@ -25,8 +25,3 @@
 
 <!-- ### 🔭 Working Experience
 - [Hancom](https://www.hancom.com/) | Web Frontend Development Internship ( 2025.08 - )
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true&theme=)
-  <img src="https://img.shields.io/badge/NEXTJS-000000??style=flatr&logo=Next.js&logoColor=white">
--->

@@ -10,14 +10,15 @@
  </div>
 
 ### Activities
-- [LikeLion at Dongguk Univ.](https://likelion-dgu.com/) 12th FE Member ( 2024.03 - 2024.11 )
+- [LikeLion at Dongguk Univ.](https://likelion-dgu.com/) 12th FE Fresh Member ( 2024.03 - 2024.11 )
 - [Sopt](https://www.sopt.org/) 35th Android YB ( 2024.09 - 2025.01 )
-- [LikeLion at Dongguk Univ.](https://likelion-dgu.com/) 13th FE Education Team ( 2025.01 - )
+- [LikeLion at Dongguk Univ.](https://likelion-dgu.com/) 13th FE Education Team Member ( 2025.03 - )
+- [Sopt](https://www.sopt.org/) 36th Android OB ( 2025.03 - )
 
 
 ### Education
 - [Dongguk University](https://www.dongguk.edu/main) ( 2019.03 - )
-- [kakaotech bootcamp](https://ktb.goorm.io/) 1st Cloud Native Course ( 2024.07 - 2024.12 )
+- [kakaotech bootcamp](https://ktb.goorm.io/) 1st Cloud Native Course Trainee ( 2024.07 - 2024.12 )
 
 <!-- ### 🔭 Working Experience
 - [Hancom](https://www.hancom.com/) | Web Frontend Development Internship ( 2025.08 - )

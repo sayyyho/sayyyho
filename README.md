@@ -7,11 +7,16 @@
 학습한 내용을 기록하고 공유하는 것을 즐깁니다. 주로 [개인 블로그](https://velog.io/@sayyyho/posts)를 통해 공유합니다.
 
 
+#### Tech Stack
 
-## Tech Stack
 <div>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E??style=flatr&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6??style=flatr&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/REACT-61DAFB??style=flatr&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/NEXT.JS-000000??style=flat&logo=Next.js&logoColor=white">
  </div>
+
+<br />
+
+![sayyyho's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyyho&show_icons=true&bg_color=FFFFFF&title_color=4A90E2&icon_color=2D9CDB&text_color=333333)
+&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sayyyho)](https://solved.ac/sayyyho/)

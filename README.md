@@ -1,6 +1,6 @@
-## 안녕하세요. 박세호입니다.
+# 안녕하세요. 박세호입니다.
 
-### Tech Stack 
+## Tech Stack 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
       <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
@@ -9,5 +9,5 @@
     </div> 
   </div>
 
-### Contribution
+## Contribution
 - https://github.com/droidknights/DroidKnightsApp/pull/525

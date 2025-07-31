@@ -9,5 +9,5 @@
 - [밥상일터 | 고령층 맞춤형 소일거리 매칭 및 결식 문제 해결 서비스 (국무총리상)](https://ktb-blog.goorm.io/hackathon_winner/) (2024)
 - [LineNow | 일회성 행사 웨이팅 서비스](https://github.com/LINE-NOW/LINENOW-CLIENT) (2024 ~ 2025)
 - [동아리랑 | 동국대학교 동아리 박람회 정보 제공 서비스](https://github.com/LikeLion-at-DGU/2025_DongBak_Frontend) (2025)
-- [수현이랑 | 완벽하게 엄빠 몰래 가는 여행 서비스](https://github.com/Team-with-suhyeon/With-Suhyeon-Android) (2025 ~ )
+- [수현이랑 | 완벽하게 엄빠 몰래 가는 여행 서비스](https://github.com/Team-with-suhyeon) (2025 ~ )
 - [드로이드나이츠 소개 웹 페이지 (contribution)](https://github.com/droidknights/DroidKnightsApp/pull/525) (2025)

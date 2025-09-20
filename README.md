@@ -1,8 +1,8 @@
 <h1 align="center">박세호 (Seho Park)</h1>
 
 ## Education
-- Bachelor of Engineering in Information and Communication Engineering / Data Science Software, Dongguk University (Mar. 2019 – Aug. 2025)  
-- Master of Engineering in Smart Ocean Mobility, Department of Information and Communication Engineering, Dongguk University (Sep. 2025 – Aug. 2027)
+- B.S., Double Major in Information & Communication Engineering and Data Science Software, Dongguk University, Graduated Aug. 2025
+- M.S. in Information and Communication Engineering (Smart Ocean Mobility Track), Dongguk University, Expected Aug. 2027
 
 ## Projects
 - [부스끼리 | 동국대학교 축제 정보 제공 서비스](https://github.com/LikeLion-at-DGU/2024_fall_festival_front) (2024)

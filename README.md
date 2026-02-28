@@ -3,12 +3,11 @@
 <h2 align="left">Education</h2>
   
 __Dongguk University__
-- (Aug. 2027) M.E. degree from Smart Ocean Mobility Program
+- (Sept. 2025 ~) Master Student, Smart Ocean Mobility Program
     - LAB: Mobile Multimedia Communication Laboratory 
 - (Aug. 2025) B.E. degree from Information and Communication Engg.
     - Double Major: Data Science & Software
 
-</br>
 
 <h2 align="left">Working Experience</h2>
 
@@ -16,4 +15,3 @@ __Hanwha Ocean Co., Ltd.__
 - (Dec. 2025 – Feb. 2026) Intern
     - Dept: Facility Automation Team, Automation Business Department
 
-</br>
